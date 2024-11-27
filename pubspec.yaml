@@ -89,3 +89,11 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+  fonts:
+    - family: CenturyGothic
+      fonts:
+        - asset: fonts/century_gothic.otf
+        - asset: fonts/century_gothic_italic.otf
+          style: italic
+        - asset: fonts/century_gothic_bold.otf
+          weight: 700
